@@ -1,6 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+
 .container {
   margin: auto;
   padding: 24px;
@@ -13,35 +14,48 @@ body {
 #personal-info {
   text-align: center;
 }
+
 .overview-text {
   text-align: justify;
 }
+
+img {
+  border-radius: 12px;
+}
+
 h2 {
   border-bottom: 3px solid purple;
   width: max-content;
 }
+
 table {
   margin: auto;
   border-collapse: separate;
   border-spacing: 30px 10px;
 }
+
 caption {
   font-size: 20px;
   padding-bottom: 15px;
   font-weight: 500;
 }
+
 th {
   border-bottom: 1px solid black;
 }
+
 .personal-info-text {
   font-size: 20px;
 }
+
 td {
   text-align: center;
 }
+
 .skills-item {
   padding-bottom: 8px;
 }
+
 .work-item-name {
   padding-bottom: 8px;
 }
